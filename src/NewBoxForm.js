@@ -56,7 +56,7 @@ function NewBoxForm({ addBox }) {
             id="backgroundColor"
           />
         </div>
-        <button id="newBoxButton" class="btn btn-primary">Create Box!</button>
+        <button id="newBoxButton" className="btn btn-primary">Create Box!</button>
       </form>
     </div>
   );
